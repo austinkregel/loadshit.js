@@ -3,7 +3,7 @@
  * @author austinkregel
  * @license MIT 
  */
-(function (window, Object, document, undefined) {
+(function (window, document, undefined) {
     window.Loadshit = {
         scripts: [],
         scriptsCount: 0,
@@ -77,4 +77,4 @@
             Loadshit.ready = ready;
         }
     };
-})(window, Object, document)
+})(window, document)
