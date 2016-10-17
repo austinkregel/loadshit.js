@@ -1,0 +1,24 @@
+{
+  "name": "loadshit",
+  "description": "Asynchronous JavaScript loader and dependency manager",
+  "keywords": [
+    "ender",
+    "script",
+    "dependency",
+    "ajax",
+    "jsonp",
+    "loader"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/austinkregel/loadshit.js",
+  "author": {
+    "name": "Austin Kregel",
+    "url": "https://austinkregel.com"
+  },
+  "main": "dist/loadshit.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austinkregel/loadshit.js.git"
+  }
+}
+
